@@ -5,7 +5,17 @@ bot = telegram_chatbot("config.cfg")
 
 def make_reply(msg):
     reply = bot.getResponseFromBot(msg)
-    return reply
+    if (reply == None):
+        return "this is it"
+    else:
+        return reply
+
+
+
+def userName(name1, name2 = ""):
+    n1 = bot.getUserName(name1, name2)
+    return n1
+
 
 update_id = None
 while True:
@@ -19,8 +29,20 @@ while True:
             update_id = item["update_id"]
             try:
                 message = str(item["message"]["text"])
+                from_ = item["message"]["from"]["id"]
+                UsrFirstName = item["message"]["from"]["first_name"]
+                UsrLastName = item["message"]["from"]["last_name"]
+                reply = make_reply(message)
+                if ( UsrLastName):
+                    userName(UsrFirstName, UsrLastName)
+                else :
+                    print("Last name not found!!")
+                    userName(UsrFirstName)
+                reply = make_reply(message)
+                bot.send_message(reply, from_)
             except:
                 message = None
-            from_ = item["message"]["from"]["id"]
-            reply = make_reply(message)
-            bot.send_message(reply, from_)
+                print ( "Failed ")
+
+if __name__ == '__main__':
+    main()
