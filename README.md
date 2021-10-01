@@ -1,4 +1,4 @@
-<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--T__NDHd5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0shqntyjc5vyfuyn5bg.png"  width="1000" height="420" align= "center"> 
+<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--T__NDHd5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0shqntyjc5vyfuyn5bg.png"  width="500" height="240" align= "center"> 
 <h2 align="center">
  <a href = https://hacktoberfest.digitalocean.com > Hacktoberfest-2021 </a> contribution Repo for Beginners 
 </h2>
