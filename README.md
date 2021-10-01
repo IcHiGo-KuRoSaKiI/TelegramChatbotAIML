@@ -1,9 +1,10 @@
-<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--T__NDHd5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0shqntyjc5vyfuyn5bg.png"  width="500" height="240" align= "center"> 
-<h2 align="center">
+<div align = "centre">
+<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--T__NDHd5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w0shqntyjc5vyfuyn5bg.png"  width="500" height="240" > 
+<h2 >
  <a href = https://hacktoberfest.digitalocean.com > Hacktoberfest-2021 </a> contribution Repo for Beginners 
 </h2>
 </br>
-
+</div>
 # TelegramChatbotAIML
 A simple telegram chatbot working on AIML and deployed @IcHiGo_bot
 
