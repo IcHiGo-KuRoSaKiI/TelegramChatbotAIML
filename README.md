@@ -1,4 +1,4 @@
-<p align="center"><img src="./src/PATTERN.png" /> </p>
+
 <h2 align="center">
  Hacktoberfest-2021 contribution Repo for Beginners 
 </h2>
