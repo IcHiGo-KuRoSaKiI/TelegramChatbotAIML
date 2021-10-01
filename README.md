@@ -1,6 +1,6 @@
 
 <h2 align="center">
- [Hacktoberfest-2021](https://hacktoberfest.digitalocean.com/) contribution Repo for Beginners 
+ <a href = https://hacktoberfest.digitalocean.com > Hacktoberfest-2021 </a> contribution Repo for Beginners 
 </h2>
 </br>
 
