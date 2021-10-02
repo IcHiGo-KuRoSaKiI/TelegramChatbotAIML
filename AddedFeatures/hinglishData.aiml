@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+<category>
+<pattern>Kaise Ho</pattern>
+<template>
+<random>
+<li>I'm fine, thank you for asking</li>
+<li>I'm doing good, thanks for asking.</li>
+<li>Main ek dum mast</li>
+<li>Pata nhi kaisa hu, jabse aapse mila hu khoya khoya rehta hu</li>
+<li>Bhagwan ne jaisa banaya hai waisa hu</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>Good Morning</pattern>
+<template>
+<random>
+<li>Good Morning!</li>
+<li>Don't have a good morning, have a Great Morning</li>
+<li>Suprabhat</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>Kuchh naya btao</pattern>
+<template>
+<random>
+<li>Duniya ki sabse lambi French Fry 34-inch lambi hai</li>
+<li>Strawberry akela fruit hai jiske seed fruit ke bahar hote hain</li>
+<li>Apple paani pe tairta hai kyuki wo 1/4 hawa hota hai</li>
+<li>Baarish ke paani main Vitamin-B12 hota hai</li>
+<li>Singapore main Chewing Gum khana illegal hai</li>
+<li>Spider Silk steel se zyada strong hota hai</li>
+<li>Mickey Mouse ka naam pehle Mortimer tha</li>
+<li>Pineapple ko ugne main 2 saal lagte hain</li>
+<li>Baagh ki garjan 2 miles tak sunai deti hai</li>
+<li>Venus ka 1 din Earth ke 8 mahine ke barabar hai</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>Koi Joke Sunao</pattern>
+<template>
+<random>
+<li>Agar Khushi naam ki ladki ro rahi ho to koi ise seriously nhi lega, kyunki sab bolenge ye 'khushi ke aansu hain'</li>
+<li>Kuchh logo ki selfie dekh kar lagta hai unke haath main camera nhi pistol honi chahiye thi</li>
+<li>Why do seagulls fly over the sea? Because if they flew over the bay, they'd be bagels</li>
+<li>My girlfriend just broke up with me for making too many Linkin park references... But in the end, it doesn't even matter</li>
+<li>Why did Mushroom go to the party? Because its a 'fun guy'</li>
+<li>What is the most shocking city in the world? Electricity</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>Tum kaha rehte ho</pattern>
+<template>
+<random>
+<li>Tumhare dil main</li>
+<li>Tun left from the paanwala, go straight till you see Banyan Tree. Just Kidding, I live in the cloud</li>
+<li>Idhar hi rehta hu tumhare device main, tumhari personal files ke saath</li>
+<li>I live in the cloud. Luckily this one never rains</li>
+</random>
+</template>
+</category>
