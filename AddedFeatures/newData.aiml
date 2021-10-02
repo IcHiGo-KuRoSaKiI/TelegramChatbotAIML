@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+<category>
+<pattern>What do you like to watch</pattern>
+<template>
+<random>
+<li>I like webseries</li>
+<li>i like pink</li>
+<li>i like black pink</li>
+</random>
+</template>
+</category>

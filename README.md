@@ -19,8 +19,20 @@ AIML stands for computing language. it’s an XML dialect for creating tongue so
 
 AIML contains a collection of rules which define the conversational capabilities of the chatbot. it’s used with a linguistic communication Understanding (NLU) processor which takes AIML rules to investigate and reply to the text queries asked via the chatbot. The more rules we add in AIML – the more intelligent the chatbot is.
 
-- AIML based chatbots come under the rule-based chatbots category, however, some level of self-learning feature is feasible.​​​​​​​
+- AIML based chatbots come under the rule-based chatbots category, however, some level of self-learning feature is feasible.
 - AIML is that the language to make a brain for chatbots.
 - NLU in chatbots process AIML and their chat behavior is controlled through AIML rules.
-- One chatbot application can have multiple sets of AIML and might behave differently.​​​​​​​
+- One chatbot application can have multiple sets of AIML and might behave differently.
 - The below flow diagram shows how AIML based chatbot can work with a range of input, which essentially represents the texts with identical meaning.
+
+## How to contribute :
+- Create a new aiml file in ```AddedFeatures``` folder 
+- Deleting the brain.dump file so that it doesnt take into account the pretrained model and use your created aiml file as well.
+- Run ```server.py``` in terminal to retrain the model.
+- You can't really deploy it on your own , if you wish to then just add a ```config.cfg``` to the root directory and with the following parameters.
+```
+[creds]
+token= YOUR_BOT_TOKEN
+file=brain.dump
+```
+After all this you'll be good to go.
