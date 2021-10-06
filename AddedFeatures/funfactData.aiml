@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<aiml version="1.0">
+<category>
+<pattern>funfact humans</pattern>
+<template>
+<random>
+<li>Do you know, You’re going to be taller in the morning.</li>
+<li>Do you know, Your highest blood flow is in your kidneys.</li>
+<li>Do you know, You can produce enough saliva to fill two bathtubs a year.</li>
+<li>Do you know, Healthy lungs are pink lungs.</li>
+<li>Do you know, Your heart beats about 100,000 times a day.</li>
+<li>Do you know, The average human adult has 2000-4000 taste buds.</li>
+<li>Do you know, Your body has more than 600 muscles.</li>
+<li>Do you know, Your fingernails grow faster than your toenails./</li>
+<li>Do you know, your strongest and longest bone is your femur.</li>
+<li>Do you know, Your blood vessels could circle the globe.</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>funfact animals</pattern>
+<template>
+<li>Do you know, The heart of a shrimp is located in its head.</li>
+<li>Do you know, A snail can sleep for three years.</li>
+<li>Do you know, Slugs have four noses.</li>
+<li>Do you know, Elephants are the only animal that can't jump.</li>
+<li>Do you know, A rhinoceros' horn is made of hair.</li>
+<li>Do you know, It is possible to hypnotize a frog by placing it on its back and gently stroking its stomach.</li>
+<li>Do you know, It takes a sloth two weeks to digest its food.</li>
+<li>Do you know, A cow gives nearly 200,000 glasses of milk in a lifetime./</li>
+<li>Do you know, Bats always turn left when leaving a cave.</li>
+<li>Do you know, Giraffes have no vocal chords.</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>funfact earth</pattern>
+<template>
+<random>
+<li>Do you know, Earth is Mostly Iron, Oxygen and Silicon.</li>
+<li>Do you know, 70% of the Earth’s Surface is Covered in Water.</li>
+<li>Do you know, The Earth’s Atmosphere Extends to a Distance of 10,000 km.</li>
+<li>Do you know, The Earth’s Molten Iron Core Creates a Magnetic Field.</li>
+<li>Do you know, Earth Doesn’t Take 24 Hours to Rotate on its Axis.</li>
+<li>Do you know, A year on Earth isn’t 365 days.</li>
+<li>Do you know, Earth has 1 Moon and 2 Co-Orbital Satellites.</li>
+<li>Do you know, Earth is the Only Planet Known to Have Life.</li>
+<li>Do you know, Earth is Almost a Sphere.</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>funfact india</pattern>
+<template>
+<random>
+<li>Do you know, The country is third in the world for billionaires.</li>
+<li>Do you know, The sari(an indian dress) is over 5000 years old.</li>
+<li>Do you know, The origins of chess is India.</li>
+<li>Do you know, Nalanda International University is one of the world's most ancient .</li>
+<li>Do you know, India has the second highest population in the world.</li>
+<li>Do you know, Cows are considered sacred in India.</li>
+<li>Do you know, The city of Varanasi is believed to be one of the oldest living cities in the world.</li>
+<li>Do you know, The game ‘snakes and ladders’ originated in India.</li>
+<li>Do you know, About 70% of the world’s spices come from India.</li>
+</random>
+</template>
+</category>
